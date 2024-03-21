@@ -13,3 +13,7 @@ public void test2() {
 	System.out.println("This is test2 method()...");
 }
 
+public void test3() {
+	System.out.println("This is test3 method()...");
+}
+
