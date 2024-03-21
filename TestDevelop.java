@@ -9,3 +9,7 @@ public void test1() {
 	System.out.println("This is test1 method()...");
 }
 
+public void test2() {
+	System.out.println("This is test2 method()...");
+}
+
